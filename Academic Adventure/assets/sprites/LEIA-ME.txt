@@ -1,0 +1,13 @@
+Este é o guia da pasta sprites
+
+Na pasta alunos é onde ficam os NPCS que pertencem ao Senac. Alguns iniciam na cena rua e outros iniciam diretamente dentro do ambiente da instituição.
+Na pasta andantes estão os NPCS da cena rua. Se refere aos NPCS que andam somente em linha reta, em direita/esquerda.
+Na pasta animais é onde estarão os animais do jogo.
+Na pasta carros é onde estão todos os automóveis da cena rua do jogo.
+Na pasta elevador está os sprites da entidade elevador.
+Na pasta fmainchar é onde está os sprites do personagem principal feminino
+Na pasta funcionarios estão os NPCS que trabalham no Senac.
+Na pasta mainchar é onde está os sprites do personagem principal masculino
+Na pasta modelos é onde está os sprites que serão utilizados como "enfeite" em alguma cena do jogo.
+A pasta new é a pasta usada para verificar os NPCS que serão inseridos no jogo (atualmente, todos da pasta NEW ja estão inseridos)
+Na pasta professores é onde estão os professores que trabalham no Senac. Alguns iniciam na cena rua, outros já iniciam na instituição.
