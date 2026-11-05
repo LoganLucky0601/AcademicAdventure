@@ -1,0 +1,6 @@
+{
+  "code-runner.executorMap": {
+    "python": "py -3.12 -u"
+  },
+  "code-runner.fileDirectoryAsCwd": true
+}
