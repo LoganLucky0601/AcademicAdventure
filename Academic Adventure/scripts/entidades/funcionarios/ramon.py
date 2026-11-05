@@ -3,38 +3,38 @@ from scripts.npc import NPC
 
 # Carrega os sprites do NPC
 spr_cima_ramon = [
-    pygame.image.load("assets/sprites/funcionarios/ramon/top1.png"),
-    pygame.image.load("assets/sprites/funcionarios/ramon/top2.png"),
-    pygame.image.load("assets/sprites/funcionarios/ramon/top3.png"),
-    pygame.image.load("assets/sprites/funcionarios/ramon/top4.png")
+    pygame.image.load("assets/sprites/funcionarios/Ramon/top1.png"),
+    pygame.image.load("assets/sprites/funcionarios/Ramon/top2.png"),
+    pygame.image.load("assets/sprites/funcionarios/Ramon/top3.png"),
+    pygame.image.load("assets/sprites/funcionarios/Ramon/top4.png")
 ]
 
 spr_baixo_ramon = [
-    pygame.image.load("assets/sprites/funcionarios/ramon/bottom1.png"),
-    pygame.image.load("assets/sprites/funcionarios/ramon/bottom2.png"),
-    pygame.image.load("assets/sprites/funcionarios/ramon/bottom3.png"),
-    pygame.image.load("assets/sprites/funcionarios/ramon/bottom4.png")
+    pygame.image.load("assets/sprites/funcionarios/Ramon/bottom1.png"),
+    pygame.image.load("assets/sprites/funcionarios/Ramon/bottom2.png"),
+    pygame.image.load("assets/sprites/funcionarios/Ramon/bottom3.png"),
+    pygame.image.load("assets/sprites/funcionarios/Ramon/bottom4.png")
 ]
 
 spr_esquerda_ramon = [
-    pygame.image.load("assets/sprites/funcionarios/ramon/left1.png"),
-    pygame.image.load("assets/sprites/funcionarios/ramon/left2.png"),
-    pygame.image.load("assets/sprites/funcionarios/ramon/left3.png"),
-    pygame.image.load("assets/sprites/funcionarios/ramon/left4.png")
+    pygame.image.load("assets/sprites/funcionarios/Ramon/left1.png"),
+    pygame.image.load("assets/sprites/funcionarios/Ramon/left2.png"),
+    pygame.image.load("assets/sprites/funcionarios/Ramon/left3.png"),
+    pygame.image.load("assets/sprites/funcionarios/Ramon/left4.png")
 ]
 
 spr_direita_ramon = [
-    pygame.image.load("assets/sprites/funcionarios/ramon/right1.png"),
-    pygame.image.load("assets/sprites/funcionarios/ramon/right2.png"),
-    pygame.image.load("assets/sprites/funcionarios/ramon/right3.png"),
-    pygame.image.load("assets/sprites/funcionarios/ramon/right4.png")
+    pygame.image.load("assets/sprites/funcionarios/Ramon/right1.png"),
+    pygame.image.load("assets/sprites/funcionarios/Ramon/right2.png"),
+    pygame.image.load("assets/sprites/funcionarios/Ramon/right3.png"),
+    pygame.image.load("assets/sprites/funcionarios/Ramon/right4.png")
 ]
 
 spr_idle_ramon = [
-    pygame.image.load("assets/sprites/funcionarios/ramon/idle_bottom.png"),
-    pygame.image.load("assets/sprites/funcionarios/ramon/idle_top.png"),
-    pygame.image.load("assets/sprites/funcionarios/ramon/idle_left.png"),
-    pygame.image.load("assets/sprites/funcionarios/ramon/idle_right.png")
+    pygame.image.load("assets/sprites/funcionarios/Ramon/idle_bottom.png"),
+    pygame.image.load("assets/sprites/funcionarios/Ramon/idle_top.png"),
+    pygame.image.load("assets/sprites/funcionarios/Ramon/idle_left.png"),
+    pygame.image.load("assets/sprites/funcionarios/Ramon/idle_right.png")
 ]
 
 # Crie uma instância do NPC usando a classe NPC

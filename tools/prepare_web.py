@@ -27,12 +27,12 @@ frame = "".join(line for line in frame.splitlines(keepends=True)
 web_code = (
     "import asyncio\n"
     + "".join(lines[:loop.lineno - 1])
-    + "\nasync def play():\n"
+    + "\nasync def run_web_game():\n"
     + "".join(f"    global {name}\n" for name in globals_used)
     + indent(frame.rstrip(), "    ")
     + "\n        await asyncio.sleep(0)\n"
     + "    pygame.quit()\n\n"
-    + "asyncio.run(play())\n"
+    + "asyncio.run(run_web_game())\n"
 )
 compile(web_code, "main.py", "exec")
 (destination / "main.py").write_text(web_code, encoding="utf-8")
