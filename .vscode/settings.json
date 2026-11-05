@@ -2,5 +2,6 @@
   "code-runner.executorMap": {
     "python": "py -3.12 -u"
   },
-  "code-runner.fileDirectoryAsCwd": true
+  "code-runner.fileDirectoryAsCwd": true,
+  "liveServer.settings.port": 5502
 }
